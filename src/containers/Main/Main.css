@@ -1,0 +1,103 @@
+
+    .Main {
+        margin-top: -140px;
+        text-align: center;
+        padding: 180px;
+        font-size: 60px;
+        font-weight: 700;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: relative;
+    }
+
+    .Templates {
+        border-style: solid;
+        border-radius: 20px;
+        padding: 220px;
+        margin: 100px;
+        margin-top: -140px;
+        display: block;
+    }
+  
+    .Template1 {
+        float: left;
+        border-style: solid;
+        padding: 40px;
+        padding-bottom: 190px;
+        margin: 10px;
+        margin-top: -130px;
+        position: relative;
+        background-image:url("../../assets/img1.jpg");
+        background-size: contain;
+        background-repeat: repeat;
+        display: block;
+    }
+
+    .Template1 .button {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .Template2 {
+        float: left;
+        border-style: solid;
+        padding: 40px;
+        padding-bottom: 190px;
+        margin: 10px;
+        margin-top: -130px;
+        position: relative;
+        background-image:url("../../assets/img2.jpg");
+        background-size: contain;
+        background-repeat: repeat;
+        display: block;
+    }
+
+    .Template2 .button {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .Template3 {
+        float: left;
+        border-style: solid;
+        padding: 40px;
+        padding-bottom: 190px;
+        margin: 10px;
+        margin-top: -130px;
+        position: relative;
+        background-image:url("../../assets/img3.jpg");
+        background-size: contain;
+        background-repeat: repeat;
+        display: block;
+    }
+
+    .Template3 .button {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .Template4 {
+        float: left;
+        border-style: solid;
+        padding: 40px;
+        padding-bottom: 190px;
+        margin: 10px;
+        margin-top: -130px;
+        position: relative;
+        background-image:url("../../assets/img4.jpg");
+        background-size: contain;
+        background-repeat: repeat;
+        display: block;
+    }
+
+    .Template4 .button {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }

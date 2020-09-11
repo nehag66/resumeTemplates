@@ -1,0 +1,23 @@
+.a {
+    border-style: solid;
+    background-color: aqua;
+}
+
+.b{
+    height:45px;
+    width:300px;
+    margin: 5px;
+    padding: 4px;
+    border:1px solid black;
+    position:fixed;
+    background-color: aqua;
+}
+
+.basicInfo {
+    margin: 5px;
+    height:66px;
+    width:1090px;
+    border:1px solid;
+    background-color:aqua;
+    float:right;
+}

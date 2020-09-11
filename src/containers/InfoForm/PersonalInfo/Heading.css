@@ -1,0 +1,35 @@
+.head {
+    border: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+.professional {
+    border: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+.educational {
+    border: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+.skills {
+    border: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+.workHistory {
+    border: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+.languages {
+    border: black;
+    border-style: solid;
+    padding: 10px;
+}
