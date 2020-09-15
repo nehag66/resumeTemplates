@@ -4,11 +4,11 @@ import './Template1.css';
 const Template1 = () => {
     return (
         <div className="a">
-            <h2>Jane Doe</h2>
+            <h2>Ashish Goel</h2>
             <div className="b">
                 <p>Designer</p>
                 <p>London, UK</p>
-                <p>ex@mail.com</p>
+                <p>janedoe@mail.com</p>
                 <p>1224435534</p>
                 <hr/>
 
@@ -29,8 +29,7 @@ const Template1 = () => {
 
                 <p><b>Languages</b></p>
                 <p>English</p>
-                <p>Spanish</p>
-                <p>German</p>
+                <p>Hindi</p>
                 <br/>
                 <br/>
             </div>    
@@ -41,19 +40,19 @@ const Template1 = () => {
                         <div>
                         <h5><b>Front End Developer / w3schools.com</b></h5>
                         <h6>Jan 2015 - <span>Current</span></h6>
-                        <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+                        <p> I work as a front end developer. I use react. </p>
                         <hr/>
                         </div>
                         <div>
                         <h5><b>Web Developer / something.com</b></h5>
                         <h6>Mar 2012 - Dec 2014</h6>
-                        <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+                        <p>I worked as web developer. </p>
                         <hr/>
                         </div>
                         <div>
                         <h5><b>Graphic Designer / designsomething.com</b></h5>
                         <h6>Jun 2010 - Mar 2012</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br/>
+                        <p>I worked as graphics designer </p><br/>
                         </div>
                     </div>
 

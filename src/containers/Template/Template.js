@@ -2,10 +2,10 @@ import React from 'react';
 import './Template.css';
 import Logo from '../../components/Logo/Logo';
 import Auth from '../Auth/Auth';
-import '../Layout/Layout.css';
+import '../Home/Layout/Layout.css';
 
-import Contact from '../Contact/Contact';
-import About from '../About/About';
+import Contact from '../Home/Contact/Contact';
+import About from '../Home/About/About';
 import Footer from '../../components/Footer/Footer';
 
 import {
@@ -70,19 +70,15 @@ const template = (props) => {
             <div className="Templates">
                 <div className="Template1">
                     <button onClick={onUse1Handler}>USE</button>
-                    {/* <Template1/> */}
                 </div>  
                 <div className="Template2">
                     <button onClick={onUse2Handler}>USE</button>
-                    {/* TEMPLATE 2 */}
                 </div>
                 <div className="Template3">
                     <button onClick={onUse3Handler}>USE</button>
-                    {/* TEMPLATE 3 */}
                 </div>
                 <div className="Template4">
                     <button onClick={onUse4Handler}>USE</button>
-                    {/* TEMPLATE 4 */}
                 </div>
             </div>
             <Footer/>

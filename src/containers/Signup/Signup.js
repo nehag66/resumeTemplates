@@ -4,10 +4,10 @@ import LoginImage from '../../assets/signupImage.jpg';
 import axios from '../../axios';
 import Logo from '../../components/Logo/Logo';
 
-import '../Layout/Layout.css';
+import '../Home/Layout/Layout.css';
 
-import Contact from '../Contact/Contact';
-import About from '../About/About';
+import Contact from '../Home/Contact/Contact';
+import About from '../Home/About/About';
 import Footer from '../../components/Footer/Footer';
 
 import {

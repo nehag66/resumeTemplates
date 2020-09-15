@@ -4,7 +4,7 @@ import './Template3.css';
 const Template3 = () => {
     return (
         <div className="a">
-            <h2>Jane Doe</h2>
+            <h2>Shivansh Goel</h2>
             <div className="b">
                 <p>Designer</p>
                 <p>London, UK</p>
