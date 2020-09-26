@@ -1,6 +1,9 @@
 import React from 'react';
 import './Main.css';
 import Logo from '../../components/Logo/Logo';
+// import CssBaseline from '@material-ui/core/CssBaseline';
+// import Typography from '@material-ui/core/Typography';
+// import Container from '@material-ui/core/Container';
 
 import '../Home/Layout/Layout.css';
 
@@ -58,6 +61,12 @@ const main = (props) => {
             <div className="Main">
                 RESUME TEMPLATES
             </div>
+            {/* <React.Fragment>
+                <CssBaseline />
+                <Container maxWidth="sm">
+                <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '100vh' }} />
+                </Container>
+            </React.Fragment> */}
             <div className="Templates">
                 <div className="Template1">
                     <button onClick={onUse1Handler}>USE</button>

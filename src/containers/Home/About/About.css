@@ -1,0 +1,15 @@
+  .Blue {
+    background-color: aquamarine;
+    display: block;
+    margin: 0px 150px;
+    border-style: solid;
+    border-color: aquamarine;
+  }
+
+  .About {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
